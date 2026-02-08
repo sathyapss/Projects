@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+scikit-learn
+scipy
+statsmodels
+fpdf
+openpyxl
+
+python-dotenv
+tabulate
