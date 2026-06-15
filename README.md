@@ -28,6 +28,8 @@ Snowflake
 Microsoft Purview
 Collibra
 Alation
+
+
 📌 Featured Projects
 Trusted Data Intelligence Framework
 Data Quality as a Product Metric for AI Systems
@@ -35,17 +37,21 @@ Semantic Data Quality Framework
 Critical Data Elements Framework
 Data Governance Operating Model
 AI Readiness Assessment Framework
+
+
 🎯 Current Focus
 Building Trusted AI systems through measurable data quality
 Advancing Data Governance for AI and analytics
 Developing modern Data Products and Data Contracts
 Enabling enterprise-wide data trust and observability
+
+
 🌱 Continuous Learning
 DAMA-DMBOK
 CDMP Certification
 TOGAF Enterprise Architecture
 Responsible AI & AI Governance
 
-LinkedIn: [Add your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/sathya-pss/
 GitHub: https://github.com/sathyapss
 Substack: [Add your Substack URL]
