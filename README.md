@@ -15,6 +15,8 @@ Data Catalogs & Data Lineage
 Data Products & Data as a Product
 Enterprise Data Architecture
 Analytics & Business Intelligence
+
+
 🛠️ Technologies & Platforms
 Databricks
 Microsoft Azure
